@@ -1,0 +1,30 @@
+.body{
+    text-align:center;
+    background-color:black;
+}
+.container{
+    width: 100%;
+    height:20%;
+
+}
+.btn{
+    width:80%;
+    height:80px;
+    background-color: maroon;
+    color:white;
+    font-size:50px;
+    border-style: solid;
+    border-radius:30px ;
+    border-color: mintcream;
+    
+}
+.my_nav_bar{
+    position:stickey;
+    top: 0px;
+    z-index: 99999;
+}
+.body2{
+    text-align:center;
+    background-image: linear-gradient(to left, aqua , 	#c4ddff);
+}
+  
